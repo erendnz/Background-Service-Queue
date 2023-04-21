@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oHihMJMjPitt4lS/u67Hw7XcA5czHdW8vz2nflveqSU=",
+  "Source": "BackgroundServiceQueue",
+  "BasePath": "_content/BackgroundServiceQueue",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
